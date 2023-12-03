@@ -1,0 +1,6 @@
+Pedestrian Crossing
+Road Caution
+Stop
+Traffic Signal
+Train Zone
+Two way Traffic
